@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "clutchforce.aternos.me",
+    "ip": "clutchforcemc.aternos.me",
     "port": 43979,
     "version": "",
     "try-creative": true
